@@ -13,7 +13,7 @@ Below is a grid showing visualizations of shell types included in this project:
 
 <table>
   <tr>
-    <td><img src="img/natica" width="200"/></td>
+    <td><img src="img/natica.png" width="200"/></td>
     <td><img src="img/ammonite.png" width="200"/></td>
     <td><img src="img/lyria.png" width="200"/></td>
   </tr>
@@ -23,7 +23,6 @@ Below is a grid showing visualizations of shell types included in this project:
     <td><img src="img/asteroceras.png" width="200"/></td>
   </tr>
   <tr>
-
     <td><img src="img/buccinum.png" width="200"/></td>
     <td></td>
     <td></td>
